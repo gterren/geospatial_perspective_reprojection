@@ -1,6 +1,8 @@
 # Geospatial Perspective Reprojections
 
-https://arxiv.org/pdf/2103.02066.pdf
+The article that fully explains the Geospatial Perspective Reprojection for ground-based sky imagers is https://arxiv.org/pdf/2103.02066.pdf.
+
+The images and the map of New Meixoc displaied in the paper are inside the data folder.
 
 ## Dataset
 
