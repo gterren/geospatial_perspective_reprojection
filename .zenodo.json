@@ -23,7 +23,7 @@
     "related_identifiers": [
         {
             "scheme": "url", 
-            "identifier": "https://github.com/gterren/cloud_segmentation", 
+            "identifier": "https://github.com/gterren/geospatial_perspective_reprojection", 
             "relation": "isSupplementTo"
         }, 
         {
